@@ -13,3 +13,7 @@
 
 
 String ScrollLine(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
+String ScrollLine1(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
+String ScrollLine2(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
+String ScrollLine3(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
+
