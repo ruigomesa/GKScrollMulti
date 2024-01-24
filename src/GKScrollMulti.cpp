@@ -9,7 +9,7 @@
 
 
 #include "Arduino.h"
-#include "GKScroll.h"
+#include "GKScrollMulti.h"
 
 int lineOneStep, lineTwoStep = 0;
 int line1OneStep, line1TwoStep = 0;
