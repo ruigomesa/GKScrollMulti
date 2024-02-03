@@ -9,11 +9,11 @@
 
 #include "Arduino.h"
 
+String ScrollLine(String lineToScrollLeft, int scrollBuffer, int lcdColumns, int lcdLine = 0, int reset = 0);
 
 
-
-String ScrollLine(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
-String ScrollLine1(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
-String ScrollLine2(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
-String ScrollLine3(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
+//String ScrollLine(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
+//String ScrollLine1(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
+//String ScrollLine2(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
+//String ScrollLine3(String lineToScrollLeft, int scrollBuffer, int lcdColumns);
 
